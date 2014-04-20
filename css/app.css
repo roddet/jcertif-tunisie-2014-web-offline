@@ -1,0 +1,155 @@
+section {
+    background: #ffffff;
+}
+
+.c-dark {
+    background-color: #353535;
+    color: #ffffff;
+}
+
+.pertereseau {
+    background: url('../img/pertereseau.jpg') no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+.restoanim3 {
+    background: url('../img/restoanim3.gif') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.restoanim1 {
+    background: url('../img/restoanim1.gif') no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+.londontube {
+    background: url('../img/londontubeescalator.jpg') no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+.roddet {
+    background: url('../img/roddet.jpg') no-repeat right;
+    background-size: contain;
+    width: 100%;
+}
+
+.tendances {
+    background: url('../img/tendances.jpg') no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+.of1 {
+    background: url('../img/of1.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.of2 {
+    background: url('../img/of2.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.of3 {
+    background: url('../img/of3.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.html5offline {
+    background: url('../img/html5offline.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.webstorage {
+    background: url('../img/webstorage.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.secu1 {
+    background: url('../img/secu1.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.secu {
+    background: url('../img/secu.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.secu2 {
+    background: url('../img/secu2.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.secu3 {
+    background: url('../img/owasp.png') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+/* http://fr.fotolia.com/id/54043162 */
+.sharemetro {
+    background: url('../img/share_metro.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.tv {
+    background: url('../img/tv1.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.pesepersonne {
+    background: url('../img/pese_personne.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.fullreactive {
+    background: url('../img/full-reactive.png') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.libs {
+    background: url('../img/libs.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+
+.kolibree {
+    background: url('../img/kolibree_brosse_connectee.jpg') no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+.outlook {
+    background: url('../img/outlook.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
+
+.fourchette {
+    width: 100%;
+    background-size: contain;
+    background: url('../img/fourchette_connectee1.jpg') no-repeat center;
+}
+
+/* http://fr.fotolia.com/Content/Comp/59473587 */
+.err404 {
+    background: url('../img/404.jpg') no-repeat center;
+    background-size: contain;
+    width: 100%;
+}
